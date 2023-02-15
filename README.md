@@ -1,2 +1,2 @@
-# mariam-enoch-collaboration
+# maryam-enoch-collaboration
 A collaboration with a teammate on the Pancake Sort Challenge.
